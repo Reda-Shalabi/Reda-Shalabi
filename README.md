@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reda846921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reda846921" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reda shalabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reda shalabi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reda-shalabi-1a23932b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reda shalabi" height="30" width="40" /></a>
 <a href="https://fb.com/reda shalpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reda shalpy" height="30" width="40" /></a>
 <a href="https://instagram.com/prfev_reda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prfev_reda" height="30" width="40" /></a>
 </p>
